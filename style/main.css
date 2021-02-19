@@ -1,6 +1,6 @@
 :root{
     --vermelho: #0a96a8;
-    --branco: white;
+    --corFundo: rgb(133, 64, 64);
 }
 
 *{
@@ -11,7 +11,7 @@
 
 /*elementos base*/
 body{
-    background: var(--branco);
+    background: var(--corFundo);
     font-family: "Ariel", times, serif;
     color:white;
 }
